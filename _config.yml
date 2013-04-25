@@ -1,0 +1,11 @@
+# Themes are encouraged to use these universal variables 
+# so be sure to set them if your theme uses them.
+#
+domain: gaosaij.com
+title :  Jerry | A Tech Blog
+author :
+  name : Jerry
+  email : saijie1@gmail.com
+
+
+baseurl: /gaosaij.github.com
